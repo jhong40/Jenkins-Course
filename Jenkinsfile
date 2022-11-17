@@ -1,3 +1,4 @@
+// jenkins will switch to simple-java-maven folder, no dir('simple-java-maven') needed
 pipeline {
     agent any
     stages {
